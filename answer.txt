@@ -1,0 +1,7 @@
+Linear
+1. Why did you choose this dataset?
+* This dataset Show a wide variety of variable where I can manipulate them and turn them into visible data
+2. What is your conclusion upon conducting linear regression on this dataset?
+* Conducting linear regression here shows me that the compatibility of 2 variable is important since conclusion will be different base on r2 and rsme
+3. How relevant is linear regression today?
+* The relevance of linear regression today how data is being use to gather or generate an idea
