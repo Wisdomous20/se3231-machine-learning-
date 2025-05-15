@@ -1,0 +1,5 @@
+1. Does preprocessing affect the result of the model? Why?
+- Yes, preprocessing affects the result of the model because it ensures that all features contribute equally during analysis. For example, in K-Means clustering, the algorithm uses distance calculations to group data, so if one feature like price has a much larger scale than another feature like the number of bathrooms, it can dominate the clustering results. Preprocessing techniques such as normalization or standardization help balance the influence of each feature, leading to more accurate and meaningful clusters. Without preprocessing, the model might produce biased or misleading results.
+
+2. What is your conclusion based on the interpretation or result of your model?
+- The model successfully identified clusters of properties based on price and bathroom count. However, the actual vs. predicted plot shows that while predictions are accurate for lower-priced properties, the model struggles with higher-priced ones, indicating it may need further improvement or more features.
